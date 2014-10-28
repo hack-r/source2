@@ -1,5 +1,5 @@
-#' source2_temp.
+#' source2.
 #'
-#' @name source2_temp
+#' @name source2
 #' @docType package
 NULL
